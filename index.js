@@ -15,4 +15,3 @@ var lowercase = string
   string.toLowerCase() === lowercase
   if true
     console.log ("I can't hear you!")
-
